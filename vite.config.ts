@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/Qu-n-l-chi-ti-u-c-nh-n/',
+    base: '/Money-Management/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
