@@ -1,0 +1,8 @@
+{
+  "name": "Personal Finance Dashboard",
+  "description": "Quản lý thu chi cá nhân hiện đại, trực quan, phân tích dòng tiền và tự động đề xuất insight tài chính.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
